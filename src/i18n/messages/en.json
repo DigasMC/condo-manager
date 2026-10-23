@@ -1,0 +1,138 @@
+{
+  "app": {
+    "name": "Condo Manager",
+    "tagline": "Condominium cost management"
+  },
+  "nav": {
+    "dashboard": "Balance",
+    "units": "Units",
+    "quotas": "Dues",
+    "receipts": "Receipts",
+    "expenses": "Expenses",
+    "bank": "Bank",
+    "providers": "Providers",
+    "members": "Members",
+    "home": "My condominiums",
+    "signOut": "Sign out",
+    "language": "Language"
+  },
+  "auth": {
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full name",
+    "forgotPassword": "Forgot password?",
+    "resetPassword": "Reset password",
+    "sendReset": "Send reset link",
+    "google": "Continue with Google",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "checkEmail": "Check your email to confirm your account.",
+    "resetSent": "If the email exists, we sent a reset link."
+  },
+  "home": {
+    "title": "My condominiums",
+    "create": "New condominium",
+    "name": "Name",
+    "address": "Address",
+    "empty": "You have no condominiums yet. Create one or ask for an invite.",
+    "roleManager": "Manager",
+    "roleMember": "Member",
+    "open": "Open"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "loading": "Loading…",
+    "actions": "Actions",
+    "notes": "Notes",
+    "amount": "Amount",
+    "date": "Date",
+    "year": "Year",
+    "month": "Month",
+    "total": "Total",
+    "yes": "Yes",
+    "no": "No",
+    "back": "Back",
+    "error": "Something went wrong"
+  },
+  "dashboard": {
+    "title": "Balance",
+    "openingBalance": "Opening balance",
+    "bank": "Bank",
+    "cash": "Cash",
+    "saldo": "Balance",
+    "income": "Income",
+    "expenseTotal": "Expenses",
+    "bankFees": "Bank fees",
+    "quotaIncome": "Dues"
+  },
+  "units": {
+    "title": "Units & residents",
+    "code": "Unit",
+    "floor": "Floor",
+    "permilage": "Permillage",
+    "resident": "Name",
+    "nif": "Tax ID",
+    "contact": "Contact",
+    "addUnit": "Add unit"
+  },
+  "quotas": {
+    "title": "Dues",
+    "monthlyAmount": "Monthly dues",
+    "paid": "Paid",
+    "unpaid": "Unpaid"
+  },
+  "receipts": {
+    "title": "Receipts",
+    "unit": "Unit",
+    "viaBank": "Bank",
+    "issued": "Receipt issued",
+    "add": "New receipt"
+  },
+  "expenses": {
+    "title": "Expenses",
+    "category": "Service",
+    "periodMonth": "Service month",
+    "add": "New expense"
+  },
+  "bank": {
+    "title": "Bank",
+    "add": "New transaction"
+  },
+  "providers": {
+    "title": "Service providers",
+    "service": "Service",
+    "name": "Name",
+    "contact": "Contact",
+    "add": "New provider"
+  },
+  "members": {
+    "title": "Members & access",
+    "role": "Role",
+    "platformAccess": "Platform access",
+    "inviteEmail": "Invite email",
+    "addMember": "Add member",
+    "manager": "Manager",
+    "member": "Member",
+    "claimSeed": "Claim management of imported condominium"
+  },
+  "months": {
+    "1": "Jan",
+    "2": "Feb",
+    "3": "Mar",
+    "4": "Apr",
+    "5": "May",
+    "6": "Jun",
+    "7": "Jul",
+    "8": "Aug",
+    "9": "Sep",
+    "10": "Oct",
+    "11": "Nov",
+    "12": "Dec"
+  }
+}
