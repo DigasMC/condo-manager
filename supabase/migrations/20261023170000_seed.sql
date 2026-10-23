@@ -1,1 +1,1 @@
-LOAD_FROM_DISK
+file:///home/digasmc/Projects/condo-manager/supabase/migrations/20261023170000_seed.sql
