@@ -1,0 +1,138 @@
+{
+  "app": {
+    "name": "Condo Manager",
+    "tagline": "Gestão de custos do condomínio"
+  },
+  "nav": {
+    "dashboard": "Balanço",
+    "units": "Condóminos",
+    "quotas": "Quotas",
+    "receipts": "Recibos",
+    "expenses": "Pagamentos",
+    "bank": "Banco",
+    "providers": "Serviços",
+    "members": "Membros",
+    "home": "Os meus condomínios",
+    "signOut": "Sair",
+    "language": "Idioma"
+  },
+  "auth": {
+    "signIn": "Entrar",
+    "signUp": "Criar conta",
+    "email": "Email",
+    "password": "Palavra-passe",
+    "fullName": "Nome completo",
+    "forgotPassword": "Esqueceu a palavra-passe?",
+    "resetPassword": "Redefinir palavra-passe",
+    "sendReset": "Enviar link",
+    "google": "Continuar com Google",
+    "noAccount": "Não tem conta?",
+    "hasAccount": "Já tem conta?",
+    "checkEmail": "Verifique o seu email para confirmar a conta.",
+    "resetSent": "Se o email existir, enviámos um link de redefinição."
+  },
+  "home": {
+    "title": "Os meus condomínios",
+    "create": "Novo condomínio",
+    "name": "Nome",
+    "address": "Morada",
+    "empty": "Ainda não tem condomínios. Crie um ou peça um convite.",
+    "roleManager": "Gestor",
+    "roleMember": "Membro",
+    "open": "Abrir"
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "add": "Adicionar",
+    "loading": "A carregar…",
+    "actions": "Ações",
+    "notes": "Notas",
+    "amount": "Montante",
+    "date": "Data",
+    "year": "Ano",
+    "month": "Mês",
+    "total": "Total",
+    "yes": "Sim",
+    "no": "Não",
+    "back": "Voltar",
+    "error": "Ocorreu um erro"
+  },
+  "dashboard": {
+    "title": "Balanço",
+    "openingBalance": "Saldo inicial",
+    "bank": "Banco",
+    "cash": "Caixa",
+    "saldo": "Saldo",
+    "income": "Receitas",
+    "expenseTotal": "Despesas",
+    "bankFees": "Despesas banco",
+    "quotaIncome": "Quotas"
+  },
+  "units": {
+    "title": "Condóminos",
+    "code": "Fração",
+    "floor": "Andar",
+    "permilage": "Permilagem",
+    "resident": "Nome",
+    "nif": "NIF",
+    "contact": "Contacto",
+    "addUnit": "Adicionar fração"
+  },
+  "quotas": {
+    "title": "Quotas",
+    "monthlyAmount": "Quota mensal",
+    "paid": "Pago",
+    "unpaid": "Por pagar"
+  },
+  "receipts": {
+    "title": "Recibos",
+    "unit": "Fração",
+    "viaBank": "Banco",
+    "issued": "Recibo emitido",
+    "add": "Novo recibo"
+  },
+  "expenses": {
+    "title": "Pagamentos",
+    "category": "Serviço",
+    "periodMonth": "Mês do serviço",
+    "add": "Novo pagamento"
+  },
+  "bank": {
+    "title": "Banco",
+    "add": "Novo movimento"
+  },
+  "providers": {
+    "title": "Serviços",
+    "service": "Serviço",
+    "name": "Nome",
+    "contact": "Contacto",
+    "add": "Novo serviço"
+  },
+  "members": {
+    "title": "Membros e acessos",
+    "role": "Função",
+    "platformAccess": "Acesso à plataforma",
+    "inviteEmail": "Email do convite",
+    "addMember": "Adicionar membro",
+    "manager": "Gestor",
+    "member": "Membro",
+    "claimSeed": "Assumir gestão do condomínio importado"
+  },
+  "months": {
+    "1": "Jan",
+    "2": "Fev",
+    "3": "Mar",
+    "4": "Abr",
+    "5": "Mai",
+    "6": "Jun",
+    "7": "Jul",
+    "8": "Ago",
+    "9": "Set",
+    "10": "Out",
+    "11": "Nov",
+    "12": "Dez"
+  }
+}
