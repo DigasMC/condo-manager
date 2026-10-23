@@ -1,1 +1,1 @@
-file:///home/digasmc/Projects/condo-manager/supabase/migrations/20261023170000_seed.sql
+/tmp/push_seed_final.json
